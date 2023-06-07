@@ -1,0 +1,6 @@
+Home
+    Word-Player
+        wordplayer-privacypolicy
+        wordplayer-provacypolicy-vi
+        wordplayer-readme-eng
+        wordplayer-readme-vi
