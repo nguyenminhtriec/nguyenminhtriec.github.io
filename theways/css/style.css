@@ -145,6 +145,10 @@ nav a {
   color: black;
 }
 
+.app-link {
+  text-align: right;
+}
+
 a:link {
   color: blue;
   
