@@ -12,7 +12,8 @@ html {
 img {
   float: right;
   margin-left: .5em;
-  max-width: 4em;
+  max-width: 3em;
+  border-radius: 50%;
 }
 
 body {
